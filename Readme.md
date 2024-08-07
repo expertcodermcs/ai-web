@@ -4,7 +4,7 @@ A website made for competition for Tecathon at M.L. Khanna DAV Public School
 
 # It is hosted on Netlify
 
-[Click Here to open]("https://infoai-web.netlify.app")
+[Click Here to open](https://infoai-web.netlify.app)
 
 # Tech Used
 
