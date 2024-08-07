@@ -14,7 +14,7 @@ A website made for competition for Tecathon at M.L. Khanna DAV Public School
 
 # Libraries Used
 
-- AOS (Animate on Style)
+- AOS (Animate on Scroll)
 - Bootstrap
 - Bootstrap Icons
 - Glightbox
